@@ -21,3 +21,9 @@ a:hover {
     text-align: center;
     clear:both
   }
+  .left {
+         Float: Left;
+         width: 70%
+  }
+  .right {
+          Margin-left: 70%
